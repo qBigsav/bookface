@@ -1,0 +1,10 @@
+{
+  "dbhost" : "192.168.130.86",
+  "dbport" : "5433",
+  "db" : "bf",
+  "dbuser" : "boss",
+  "dbpassw" : "",
+  "webhost" : "10.212.168.77",
+  "frontpage_limit" : "550",
+  "use_activity_cutoff_days" : "14"
+}
